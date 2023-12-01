@@ -1,0 +1,386 @@
+K:\בית ספר יב\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+K:\בית ספר יב\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+K:\בית ספר יב\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+K:\בית ספר יב\MyGame\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+K:\בית ספר יב\MyGame\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+K:\בית ספר יב\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+K:\בית ספר יב\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\פרוייקט\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+K:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+H:\Project 301216\MyGame\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+H:\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+H:\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+K:\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+K:\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+K:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+H:\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Desktop\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+K:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+H:\project210217\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+E:\project210217\project240117\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Desktop\project240217\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים\project240217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\בית ספר יב\מחשבים 2.0\project250217\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+H:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+H:\project050317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+H:\project050317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+F:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+F:\project050317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+F:\project050317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+K:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+E:\project050317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+E:\project050317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+E:\project050317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+K:\NEW!\project210317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+H:\NEW!\project210317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Documents\School 12\Computer Science 3.0\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\project-RonMondshein2\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\Project-RonMondshein4\project310317\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Documents\School 12\Computer Science 2.0\רון מונדשיין The Virus 01.04.17\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+C:\Users\ronga\Desktop\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.exe
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\bin\Debug\MyGame_RonM.pdb
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csprojResolveAssemblyReference.cache
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormBackgrounds.resources
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormComputerWin.resources
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormGame.resources
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormPlayerWin.resources
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.FormTie.resources
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Game.resources
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.IntructionsForm.resources
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.Properties.Resources.resources
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.TableOfRecords.resources
+H:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.csproj.GenerateResource.Cache
+K:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.exe
+K:\פרוייקט סופי לבוחן\רון מונדשיין 318895877 פרוייקט\MyGame_RonM\MyGame_RonM\obj\x86\Debug\MyGame_RonM.pdb
