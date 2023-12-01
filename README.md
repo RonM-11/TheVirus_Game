@@ -1,2 +1,2 @@
 # TheVirus_Game
-Twelfth-grade final project—a milestone achievement. Introducing a simple artificial intelligence concept in a C# game
+In my twelfth grade, I developed a game in C# as my final coding project — a significant milestone marking my first 'big scale' endeavor. The game involves capturing hexagon-shaped squares while competing against a computer opponent. The project showcases a simple yet effective artificial intelligence system. It represents not just a game, but a journey of learning and applying programming concepts, setting the foundation for my future projects and endeavors.
